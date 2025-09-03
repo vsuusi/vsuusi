@@ -1,18 +1,17 @@
-<h1 align="center">Hi 👋, I'm Santeri Uusitalo</h1>
-<h3 align="center">Software Engineer from Finland</h3>
+<h1 align="left">Hi 👋, I'm Santeri Uusitalo</h1>
+<h3 align="left">Software Engineer from Finland</h3>
 
-<p align="center">
+<p align="left">
   I am a creative builder with a passion for developing robust and scalable applications. I specialize in building end-to-end solutions, from front-end interfaces to back-end services, with a strong focus on automation and deployment.
 </p>
 
-<p align="center">
+<p align="left">
   📫 <a href="mailto:vs.uusitalo@gmail.com"> vs.uusitalo@gmail.com</a>
 </p>
 
 
-
-<h3 align="center">Languages</h3>
-<p align="center"> 
+<h3 align="left">👇 Languages</h3> 
+<p align="left"> 
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=python" alt="python" width="40" height="40"/> </a> &nbsp;
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=javascript" alt="javascript" width="40" height="40"/> </a> &nbsp;
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=typescript" alt="typescript" width="40" height="40"/> </a> &nbsp;
@@ -23,8 +22,8 @@
 <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=cpp" alt="cplusplus" width="40" height="40"/> </a> 
 </p>
 
-<h3 align="center">Other Tools</h3>
-<p align="center"> 
+<h3 align="left">👇 Other Tools</h3> 
+<p align="left"> 
 <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=aws" alt="aws" width="40" height="40"/> </a> &nbsp;
 <a href="https://www.cypress.io" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=cypress" alt="cypress" width="40" height="40"/> </a> &nbsp;
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=docker" alt="docker" width="40" height="40"/> </a> &nbsp;
